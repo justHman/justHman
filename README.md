@@ -8,7 +8,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justHman&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=radical) -->
 
 ## 🛠️ Technologies & Skills
 
@@ -69,29 +69,62 @@
 ## 📂 Featured Projects
 
 ### 🏆 Highlights
-- **[Project 1](https://github.com/justHman/project1)** - Short description of Project 1
-- **[Project 2](https://github.com/justHman/project2)** - Short description of Project 2
-- **[Project 3](https://github.com/justHman/project3)** - Short description of Project 3
+
+Below are some highlighted repositories — each entry includes a short description and a demo placeholder (replace demo URLs with your actual GIF/video paths).
+
+---
+
+#### 1) Project 1 — Short Title
+- Repository: **[justHman/project1](https://github.com/justHman/project1)**
+- Description: Short description of what Project 1 does, its main features, and tech used.
+- Demo (replace with your GIF or video):
+
+	![Project 1 Demo](https://raw.githubusercontent.com/justHman/project1/main/demo.gif)
+
+---
+
+#### 2) Project 2 — Short Title
+- Repository: **[justHman/project2](https://github.com/justHman/project2)**
+- Description: Short description of what Project 2 does and why it's useful.
+- Demo (replace with your GIF or video):
+
+	![Project 2 Demo](https://raw.githubusercontent.com/justHman/project2/main/demo.gif)
+
+---
+
+#### 3) Project 3 — Short Title
+- Repository: **[justHman/project3](https://github.com/justHman/project3)**
+- Description: Short description and notable implementation details.
+- Demo (replace with your GIF or video):
+
+	![Project 3 Demo](https://raw.githubusercontent.com/justHman/project3/main/demo.gif)
+
+---
 
 ### 🔥 In progress
-- **[Current Project](https://github.com/justHman/current-project)** - Project currently in development
+- **[Current Project](https://github.com/justHman/current-project)** - Project currently in development — short note about status and expected timeline.
+
+Demo (placeholder):
+
+	![Current Project Demo](https://raw.githubusercontent.com/justHman/current-project/main/demo.gif)
+
+---
+
+Notes:
+- To display a GIF, add it to the repository (e.g., `docs/demo.gif` or repo root) and use the raw URL: `https://raw.githubusercontent.com/<user>/<repo>/<branch>/path/to/demo.gif`.
+- For video demos you can embed an HTML5 video tag (GitHub README supports limited HTML):
+
+	<video width="480" controls>
+		<source src="https://raw.githubusercontent.com/justHman/project1/main/demo.mp4" type="video/mp4">
+	</video>
+
+Replace titles, descriptions and demo URLs with the real content and I can update them for you.
 
 ## 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://your-portfolio.com)
-
-## 💡 Currently
-
-- 🔭 Working on: [Current Project]
-- 🌱 Learning: [New technology]
-- 👯 Open to collaborate on: [Type of projects]
-- 🤔 Seeking help with: [Topics]
-
-## 📈 Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=justHman&theme=github)
 
 ---
 
