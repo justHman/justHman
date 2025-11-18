@@ -37,20 +37,11 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
 
 ## 🛠️ Technologies & Skills
 
-### 💻 Programming Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pascal-EE2A24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Assembly-6E5494?style=for-the-badge"/>
 </p>
-
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🌐 Web Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,10 +52,6 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -88,29 +75,15 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
   <img src="https://img.shields.io/badge/Librosa-1DB954?style=for-the-badge"/>
 </p>
 
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🕸️ Data Crawling
-
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-DB7093?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🗄️ Databases
-
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🔧 Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -118,10 +91,6 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thonny-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-<hr style="border: none; height: 2px; background: #ddd;">
-
-### 🧰 Other Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/autoclick-5865F2?style=for-the-badge"/>
@@ -235,17 +204,9 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=justHman&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justHman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&theme=dark&hide_border=false&layout=compact)  
 
 </div>
 
