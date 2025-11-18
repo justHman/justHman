@@ -91,7 +91,7 @@ A worker is classified as **SAFE** when:
 
 **Demo:** Check to see if the worker is wearing a hat and vest?
 
-![Project 1 Demo](demo\PPE_DETECTION.gif)
+![Project 1 Demo](./demo/PPE_DETECTION.gif)
 
 ---
 
@@ -101,7 +101,7 @@ A worker is classified as **SAFE** when:
 
 **Demo:**
 
-![Project 2 Demo](demo\VERTICAL_SEARCH_ENGINE.gif)
+![Project 2 Demo](./demo/VERTICAL_SEARCH_ENGINE.gif)
 
 ---
 
