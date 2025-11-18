@@ -222,7 +222,7 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 
 <div align="center">
 
-![Project 4 Demo](demo\VIETNAMESE_IMAGE_CAPTIONING\demo.jpg)
+![Project 4 Demo](.\demo\VIETNAMESE_IMAGE_CAPTIONING\demo.jpg)
 
 </div>
 
