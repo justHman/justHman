@@ -98,7 +98,8 @@ A worker is classified as **SAFE** when:
 #### 2) Project 2 — NATURAL SEARCH ENGINE
 - Repository: **[justHman/VERTICAL_SEARCH_ENGINE](https://github.com/justHman/VERTICAL_SEARCH_ENGINE)**
 - Description: This application **builds an inverted index** using **TF-IDF** and **FAISS** to perform **semantic search** on the **Natural Food** corpus with high speed (<1s). It provides a **friendly user interface** that allows users to **choose the search method**, integrates **spelling correction**, and displays results with **snippets** and **links** for clarity.
-- Demo:
+
+**Demo:**
 
 ![Project 2 Demo](demo\VERTICAL_SEARCH_ENGINE.gif)
 
