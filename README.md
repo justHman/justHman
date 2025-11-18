@@ -4,12 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/justHman?style=social)](https://github.com/justHman)
 [![Visits](https://komarev.com/ghpvc/?username=justHman&color=blue)](https://github.com/justHman)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justHman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&layout=compact&theme=radical)
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=radical) -->
-
 ## 🛠️ Technologies & Skills
 
 ### 💻 Programming Languages
@@ -54,8 +48,6 @@
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Thonny](https://img.shields.io/badge/Thonny-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
@@ -70,25 +62,45 @@
 
 ### 🏆 Highlights
 
-Below are some highlighted repositories — each entry includes a short description and a demo placeholder (replace demo URLs with your actual GIF/video paths).
+Below are some highlighted repositories — each entry includes a short description and a demo placeholder.
 
 ---
 
-#### 1) Project 1 — Short Title
-- Repository: **[justHman/project1](https://github.com/justHman/project1)**
-- Description: Short description of what Project 1 does, its main features, and tech used.
-- Demo (replace with your GIF or video):
+#### 1) Project 1 — PPE DETECTION
+- Repository: **[justHman/PPE_DETECTION](https://github.com/justHman/PPE_DETECTION)**
+- Description: Use **Yolov8** model to **detect protective gear**, combine with **algorithm** to identify whether **worker is safe or not**, and have a **user interface**.
+<!-- ##### Detection Classes
 
-	![Project 1 Demo](https://raw.githubusercontent.com/justHman/project1/main/demo.gif)
+| Class ID | Name | Description |
+|----------|------|-------------|
+| 0 | worker | Person/worker in the scene |
+| 1 | helmet | Safety helmet worn |
+| 2 | vest | Safety vest worn |
+| 3 | gloves | Safety gloves worn |
+| 4 | boots | Safety boots worn |
+| 5 | no_helmet | Helmet not detected |
+| 6 | no_vest | Vest not detected |
+| 7 | no_gloves | Gloves not detected |
+| 8 | no_boots | Boots not detected |
+
+##### Safety Classification Logic
+
+A worker is classified as **SAFE** when:
+- ✅ All selected PPE items are detected within the worker's bounding box
+- ✅ None of the "no_*" items related to the required PPE are detected -->
+
+**Demo:** Check to see if the worker is wearing a hat and vest?
+
+![Project 1 Demo](demo\PPE_DETECTION.gif)
 
 ---
 
-#### 2) Project 2 — Short Title
-- Repository: **[justHman/project2](https://github.com/justHman/project2)**
-- Description: Short description of what Project 2 does and why it's useful.
-- Demo (replace with your GIF or video):
+#### 2) Project 2 — NATURAL SEARCH ENGINE
+- Repository: **[justHman/VERTICAL_SEARCH_ENGINE](https://github.com/justHman/VERTICAL_SEARCH_ENGINE)**
+- Description: This application **builds an inverted index** using **TF-IDF** and **FAISS** to perform **semantic search** on the **Natural Food** corpus with high speed (<1s). It provides a **friendly user interface** that allows users to **choose the search method**, integrates **spelling correction**, and displays results with **snippets** and **links** for clarity.
+- Demo:
 
-	![Project 2 Demo](https://raw.githubusercontent.com/justHman/project2/main/demo.gif)
+![Project 2 Demo](demo\VERTICAL_SEARCH_ENGINE.gif)
 
 ---
 
@@ -101,24 +113,17 @@ Below are some highlighted repositories — each entry includes a short descript
 
 ---
 
-### 🔥 In progress
-- **[Current Project](https://github.com/justHman/current-project)** - Project currently in development — short note about status and expected timeline.
+## 📊 GitHub Stats
 
-Demo (placeholder):
+<div align="center">
 
-	![Current Project Demo](https://raw.githubusercontent.com/justHman/current-project/main/demo.gif)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justHman&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justHman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&layout=compact&theme=radical)
+
+</div>
 
 ---
-
-Notes:
-- To display a GIF, add it to the repository (e.g., `docs/demo.gif` or repo root) and use the raw URL: `https://raw.githubusercontent.com/<user>/<repo>/<branch>/path/to/demo.gif`.
-- For video demos you can embed an HTML5 video tag (GitHub README supports limited HTML):
-
-	<video width="480" controls>
-		<source src="https://raw.githubusercontent.com/justHman/project1/main/demo.mp4" type="video/mp4">
-	</video>
-
-Replace titles, descriptions and demo URLs with the real content and I can update them for you.
 
 ## 📫 Connect with me
 
