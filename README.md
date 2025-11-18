@@ -132,9 +132,9 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
 
 ---
 
-## 🏆 Projects and Achievements
+## 🏆 Projects
 
-### 🏅 Achievements
+<!-- ### 🏅 Achievements
 
 <div align="center">
 
@@ -147,7 +147,7 @@ I am a dedicated **AI Engineering student** with a strong passion for developing
 
 </div>
 
-<hr style="border: none; height: 2px; background: #ddd;">
+<hr style="border: none; height: 2px; background: #ddd;"> -->
 
 ### 📂 Projects
 
@@ -222,7 +222,7 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 
 <div align="center">
 
-![Project 4 Demo](.\demo\VIETNAMESE_IMAGE_CAPTIONING\demo.jpg)
+![Project 4 Demo](./demo/VIETNAMESE_IMAGE_CAPTIONING/demo.jpg)
 
 </div>
 
@@ -241,6 +241,9 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=justHman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justHman&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
