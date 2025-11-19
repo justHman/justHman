@@ -2,36 +2,25 @@
 
 # 👋 Hi, I'm Ngo Hoai Nam (Hman)
 
-### 🎓 AI Major at FPT University | 🔬 Researcher 
+### 🎓 AI Major at FPT University | 🔬 Researcher
 
-Passionate about leveraging **Artificial Intelligence** to build transparent, data-driven systems that make a tangible social impact.  
-Always learning. Always building.
+<p>
+  Passionate about leveraging <strong>Artificial Intelligence</strong> to build transparent, data-driven systems that make a tangible social impact. My journey spans across multiple domains, including <strong>computer vision</strong>, <strong>natural language processing</strong>, <strong>sound</strong>, and <strong>machine learning</strong>. Always learning. Always building.
+</p>
 
 <p>
   <a href="https://github.com/justHman">
-    <img src="https://img.shields.io/github/followers/justHman?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/justHMan?style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/justHman">
-    <img src="https://img.shields.io/github/stars/justHman?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/justHMan?style=social" alt="GitHub stars">
   </a>
   <a href="https://github.com/justHman">
-    <img src="https://komarev.com/ghpvc/?username=justHman&color=blue" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=justHMan&color=blue" alt="Profile views">
   </a>
 </p>
 
 </div>
-
----
-
-## 🎯 About Me
-
-I am a dedicated **AI Engineering student** with a strong passion for developing innovative solutions that bridge the gap between cutting-edge technology and real-world applications. My journey in artificial intelligence spans across multiple domains including **computer vision**, **natural language processing**, **sound** and **machine learning**.
-
-**Current Focus:**
-- 🔬 Research in **Deep Learning** and **Computer Vision**
-- 🚀 Building **AI-powered applications** for social impact
-- 📊 Exploring **Data Science** and **MLOps** practices
-- 🌐 Developing **web applications** with modern frameworks
 
 ---
 
@@ -163,7 +152,7 @@ This system can **collect face data**, **train recognition models**, and perform
 **Demo:**
 <div align="center">
 
-![Project 2 Demo](./demo/VERTICAL_SEARCH_ENGINE.gif)
+![Project 2 Demo](./demo/FACE_RECOGNIZE.gif)
 
 </div>
 
@@ -217,32 +206,19 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 <div align="center">
 
 <p>
-  <a href="mailto:heiontheway@gmail.com">
+  <a href="mailto:hmansocieties11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/le-nguyen-gia-hung">
+  <a href="https://www.linkedin.com/in/ng%C3%B4-ho%C3%A0i-nam-216767365">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/25495769">
-    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://youtube.com/@hei_isme">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
----
-
-### 💭 Let's Collaborate!
-
-✨ Always open to **collaboration**, **research opportunities**, and **meaningful discussions**.  
-🚀 Let's connect and build something **impactful** together!
-
-*"Innovation is the ability to see change as an opportunity - not a threat."*
+✨ Always open to **collaboration**, **research opportunities**, and **meaningful discussions**. 
 
 </div>
 
-<hr style="border: none; height: 1px; background: #ddd;">
+---
 
 <div align="center">
 
