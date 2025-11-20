@@ -212,6 +212,9 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
   <a href="https://www.linkedin.com/in/ng%C3%B4-ho%C3%A0i-nam-216767365">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="./latex/cv/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </p>
 
 ✨ Always open to **collaboration**, **research opportunities**, and **meaningful discussions**. 
