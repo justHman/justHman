@@ -1,0 +1,5 @@
+hãy đọc file latex\cv\profile.yaml và điền thông tin vào file latex\cv\cv.tex 
+Field nào có thì fill vào còn không có thì giữ nguyên. 
+Chỉ thêm chứ không được xóa. 
+Với format, cấu trúc của file latex\cv.tex 
+bằng ngôn ngữ tự nhiên tiếng Anh 1 cách mạch lạc, ngắn gọn nhưng vẫn đầy đủ, xúc tích
