@@ -220,7 +220,7 @@ It includes both **unaccented (transfer-learning)** and **accented (train from s
 ✨ Always open to **collaboration**, **research opportunities**, and **meaningful discussions**. 
 
 </div>
-
+ 
 ---
 
 <div align="center">
